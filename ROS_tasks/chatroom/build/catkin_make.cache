@@ -1,0 +1,2 @@
+chatroom
+-DCATKIN_DEVEL_PREFIX=/home/mrityunjaya/ROS_tasks/chatroom/devel -DCMAKE_INSTALL_PREFIX=/home/mrityunjaya/ROS_tasks/chatroom/install -G Unix Makefiles

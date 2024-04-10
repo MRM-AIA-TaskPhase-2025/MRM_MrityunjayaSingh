@@ -1,0 +1,8 @@
+prefix=/home/mrityunjaya/ROS_tasks/chatroom/install
+
+Name: chatroom
+Description: Description of chatroom
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
